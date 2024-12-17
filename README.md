@@ -1,7 +1,5 @@
 # portfolio-rebalance-calculator
 
-**Portfolio Rebalancing Threshold Calculator**  
-
 A lightweight JavaScript utility to calculate the necessary price changes for individual assets in a multi-coin portfolio to trigger rebalancing. This script helps users determine how much a single coin's price must increase or decrease for its allocation to deviate beyond a specified threshold.  
 
 It supports portfolios with up to **10 coins** and allows for flexible configuration of initial investments, target allocation ratios, and rebalancing thresholds.  
