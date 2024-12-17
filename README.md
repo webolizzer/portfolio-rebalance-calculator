@@ -13,7 +13,7 @@ It supports portfolios with up to **10 coins** and allows for flexible configura
 ### Use Case:
 This tool is ideal for investors, traders, and developers implementing portfolio rebalancing strategies who need quick calculations for price deviations that trigger rebalancing.
 
-## The Code:
+### The Code:
 
 ```js
 function findPriceChangeFactor(initialValues, targetRatios, rebalanceThreshold, coinIndex) {
