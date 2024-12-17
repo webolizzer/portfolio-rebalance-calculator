@@ -1,4 +1,4 @@
-**portfolio-rebalance-calculator**
+# portfolio-rebalance-calculator
 
 **Portfolio Rebalancing Threshold Calculator**  
 
